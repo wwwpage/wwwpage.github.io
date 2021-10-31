@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Poxel';
+    src: url('http://www.wwwpage.page/font/poxelv02.ttf');
+}
+
+* {
+    font-family: Poxel;
+}
