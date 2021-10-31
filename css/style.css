@@ -1,8 +1,8 @@
 @font-face {
-    font-family: 'Poxel';
-    src: url('font/poxelv02.ttf');
+    font-family: 'poxel';
+    src: url('/font/poxelv02.ttf');
 }
 
-p {
-    font-family: Poxel;
+* {
+    font-family: 'poxel';
 }
